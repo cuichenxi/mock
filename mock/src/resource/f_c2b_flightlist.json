@@ -1,0 +1,12 @@
+{
+  "bstatus": {
+    "code": 0,
+    "des": "获取成功"
+  },
+  "data": {
+    "price":"200",
+    "ticketProb":"90%",
+    "commonPrice":"300",
+    "logoUrl":"http://source.qunar.com/site/images/wap/icon/android/Lowprice.png"
+  }
+}
